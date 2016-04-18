@@ -21,6 +21,11 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+// Recently Modified: Apr. 18, 2016
+// By Highlight Clark
+// E-mail: highlightz@163.com
+// Modifications: Read and comment the codes
+
 #ifndef HUMANOID_LOCALIZATION_HUMANOIDLOCALIZATION_H_
 #define HUMANOID_LOCALIZATION_HUMANOIDLOCALIZATION_H_
 
