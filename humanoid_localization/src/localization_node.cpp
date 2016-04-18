@@ -21,6 +21,11 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+// Recently Modified: Apr. 18, 2016
+// By Highlight Clark
+// E-mail: highlightz@163.com
+// Modifications: Read and comment the codes
+
 #include <ros/ros.h>
 #include <humanoid_localization/HumanoidLocalization.h>
 
